@@ -1,0 +1,8 @@
+{
+    "IID": "org.qt-project.Qt.PainterDemo.PainterInterface",
+    "className": "TextPlugin",
+    "version": "1.0.0",
+    "debug": false,
+    "category": "plugins",
+    "tags": ["text", "editor"]
+}
